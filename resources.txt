@@ -1,0 +1,5 @@
+#Resources
+[Categorical Informatics](https://math.mit.edu/~dspivak/informatics/grants/NSF_IIS.pdf)
+[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+[LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+* [Vim + LaTeX snippits setup](https://github.com/gillescastel/latex-snippets)
