@@ -21,6 +21,17 @@ Transform from SWE with strong foundations to AI/ML practitioner with deep theor
 - **ML Practice**: Hands-on model building and evaluation
 - **MLOps**: Production deployment, monitoring, scaling
 
+## 📝 How to Use This Repo
+
+Each phase includes:
+- **README.md** - Learning objectives, resources, and roadmap
+- **exercises.md** - Hands-on exercises and self-assessment checkpoints
+- Comprehensive projects to verify mastery
+
+**See [EXERCISES_GUIDE.md](./EXERCISES_GUIDE.md) for detailed guidance on using the exercises effectively.**
+
+> **Important**: Complete at least 80% of exercises before moving to the next phase. The exercises ensure deep understanding through implementation.
+
 ## 🗺️ Learning Path
 
 ### Phase 1: Statistical Foundations (Priority)
