@@ -113,7 +113,16 @@ Implement and compare:
 - Bayesian linear regression with MCMC
 - Visualize posterior distributions
 
-## Self-Assessment
+## Exercises & Self-Assessment
+
+**See [exercises.md](./exercises.md) for detailed practice problems, coding exercises, and checkpoints.**
+
+The exercises file includes:
+- Concept checks for each topic
+- Coding exercises with implementation challenges
+- Applied problems with real-world scenarios
+- Comprehensive checkpoint project (A/B Testing Framework)
+- Self-assessment criteria
 
 Before moving to Phase 2, you should be able to:
 - [ ] Explain when and why to use Bayesian vs frequentist approaches
